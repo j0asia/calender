@@ -1,0 +1,49 @@
+table {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    border-collapse: collapse;
+    margin-left: 200px;
+    margin-top: 100px;
+  
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+td,th {
+    padding: 10px;
+}
+th {
+    min-width: 100px;
+    background-color: #3399ff;
+}
+td {
+    background-color: #99ccff;
+}
+
+caption {
+    margin-bottom: 20px;
+}
+
+header {
+    float:left;
+    background-color: beige;
+    padding: 15px;
+    margin: 20px;
+    margin-right: 50px;
+    border-style: dashed;
+    border-color: bisque;
+    border-width: 5px;
+    text-align: center;
+    
+}
+h1 {
+    text-align: left;
+}
+.otherMonths {
+    background-color: #cce6ff;
+}
+#today {
+    background-color: #00b300;
+}
